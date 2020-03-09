@@ -1,0 +1,8 @@
+cmake
+dlib
+numpy
+opencv-python
+opencv-python-headless
+opencv-contrib-python
+opencv-contrib-python-headless
+
