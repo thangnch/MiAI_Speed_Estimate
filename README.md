@@ -1,7 +1,7 @@
 # MiAI_Speed_Estimate
 Use OpenCV to estimate vehicle speed
 
-Article link: http://ainoodle.website/2020/03/11/chung-tay-chong-covid-19-lam-thu-he-thong-nhac-deo-khau-trang-bang-opencv/
+Article link: http://ainoodle.website/2020/03/09/ket-hop-object-detection-va-object-tracking-chuong-3-thu-lam-he-thong-ban-toc-do-xe-hoi-tren-cao-toc/
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
